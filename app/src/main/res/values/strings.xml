@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">A-Tech Chat Room</string>
+    <string name="db_node_user">Users</string>
+    <string name="hello_welcome_to_a_tech_consulting">Hello, Welcome to A-Tech Consulting</string>
+</resources>
